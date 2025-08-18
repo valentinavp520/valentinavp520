@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Backend stuff
-- 🤔 I’m looking for help with anything Backend related
+- 🤔 I’m looking for help with anything Backend related, tips, anything!
 - 🐈 I'm out of ideas as to what to put in here
              
   <img src="https://github.com/user-attachments/assets/7590454f-e078-43cc-b2fe-d2b7355e64cb" height="200">
@@ -10,7 +10,7 @@
 ## 🤓 Skills
 
 - SQL (newborn level)
-- JavaScript (I just started learning it so)
+- JavaScript (just started learning it!)
 
 ## 🐥 Contact
 
